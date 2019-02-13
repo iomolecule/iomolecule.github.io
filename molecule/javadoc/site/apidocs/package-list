@@ -1,0 +1,12 @@
+com.github.bogieclj.molecule.commons
+com.github.bogieclj.molecule.config
+com.github.bogieclj.molecule.config.annotations
+com.github.bogieclj.molecule.ishell.annotations
+com.github.bogieclj.molecule.mods.ishell
+com.github.bogieclj.molecule.mods.main
+com.github.bogieclj.molecule.module
+com.github.bogieclj.molecule.module.annotations
+com.github.bogieclj.molecule.system
+com.github.bogieclj.molecule.system.annotations
+com.github.bogieclj.molecule.system.services
+com.github.bogieclj.molecule.util

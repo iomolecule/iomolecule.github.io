@@ -1,0 +1,7 @@
+# additional search items not on the help but that should appear in search
+
+- title: Example additional search
+  url: https://www.google.com
+  content: sample content to show in the search
+  category: legal
+

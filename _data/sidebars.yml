@@ -1,0 +1,10 @@
+faq:
+  - title: Discover
+    slug: discover
+    url: /faq/discover
+  - title: Get started
+    slug: start
+    url: /faq/start
+  - title: Contribute
+    slug: contribute
+    url: /faq/contribute

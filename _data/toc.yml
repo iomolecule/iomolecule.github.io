@@ -1,0 +1,45 @@
+- title: Discover
+  slug: discover
+  teaser: Everybody has to start somewhere
+  items:
+    - title: Discovery FAQ
+      url: /faq/discover
+      icon: fa-compass
+      teaser: Everybody has to start somewhere.
+    - title: Roadmap
+      url: /roadmap
+      icon: fa-map
+      teaser: What are the current and upcoming features.
+    - title: Release notes
+      url: /releases
+      icon: fa-tags
+      teaser: Find out what have changed since last time!
+- title: Get started
+  slug: start
+  teaser: All the basics to set up and use Molecule
+  items:
+    - title: Get started using Molecule
+      url: /faq/discover
+      icon: fa-compass
+      teaser: Frequently asked questions during first time use.
+- title: Contribute
+  slug: contribute
+  teaser: Are you doing your part?
+  items:
+    - title: Contributor FAQ
+      url: /faq/contribute
+      icon: fa-group
+      teaser: How to get started as a contributor
+    - title: Feature requests
+      url: https://github.com/bogie-clj/molecule/issues
+      icon: fa-plus-circle
+      teaser: Propose and vote for new ideas!
+    - title: Github
+      url: https://www.github.com/bogie-clj/molecule
+      icon: fa-github
+      teaser: Want to see the code? This way!
+    - title: Bug report
+      url: https://github.com/bogie-clj/molecule/issues
+      icon: fa-bug
+      teaser: Who knows, maybe it is a feature?
+
